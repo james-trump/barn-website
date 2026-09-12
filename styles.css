@@ -400,7 +400,8 @@ section { padding: 5.5rem 0; }
 }
 .outside-hero__panel {
   position: relative;
-  padding: 3rem 0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   width: 100%;
 }
 .outside-hero__panel h2 {
